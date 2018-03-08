@@ -1,0 +1,21 @@
+1.
+Name: Junyang Shi
+Bnumber: B00675350
+Email: jshi28@binghamton.edu
+
+Name: Fatemeh Tahmasbi
+Email: ftahmas1@binghamton.edu
+
+
+2.
+Test: Already tested on bingsuns
+
+3.
+How to run:
+make
+./calc < test.txt
+
+How to clean:
+make clean
+
+
